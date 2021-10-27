@@ -49,6 +49,10 @@ header h1 {
     text-align: center;
 }
 
+.app img {
+    padding: 30px;
+}
+
 footer {
     text-align: right;
     color: grey;
